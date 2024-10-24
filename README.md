@@ -19,6 +19,3 @@ This project is a simple DeFi application that allows users to interact with a c
 - ERC20 token implementation
 - User interface to display account balance
 - Blockchain interaction using Web3.js
-
-## License
-MIT License
