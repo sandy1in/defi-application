@@ -10,7 +10,7 @@ This project is a simple DeFi application that allows users to interact with a c
 - Web3.js
 
 ## Setup Instructions
-1. Clone the repository: `git clone https://github.com/PreciousMaine/defi-application.git`
+1. Clone the repository: `git clone https://github.com/sandy1in/defi-application.git`
 2. Install dependencies: `npm install`
 3. Compile and migrate contracts: `npx truffle compile && npx truffle migrate --network development`
 4. Start the React app: `cd client && npm start`
